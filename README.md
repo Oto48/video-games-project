@@ -1,5 +1,7 @@
 # VideoGamesProject
 
+Live Website: https://github.com/Oto48/video-games-project
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
