@@ -1,6 +1,6 @@
 # VideoGamesProject
 
-Live Website: https://github.com/Oto48/video-games-project
+Live Website: https://oto-video-games-project.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
